@@ -2,6 +2,8 @@
 
 This repository contains the implementation of content-aware image resizing (also known as seam carving). The primary goal is to reduce one of the image dimensions while preserving the essential elements of the image. This is achieved by iteratively finding and removing vertical paths (seams) with the least contrast, thereby minimizing distortion of the important content.
 
+[![Content-Aware-Image-Scaling](https://i9.ytimg.com/vi/_bqN0vChp0o/mqdefault.jpg?sqp=CMSt-LUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgVShlMA8=&rs=AOn4CLB1IylE496HhqA8QKZOK-83jC4Zfg)](https://youtu.be/_bqN0vChp0o)
+
 ## Table of Contents
 
 - [Installation](#installation)
